@@ -10,6 +10,10 @@ _Published by Packt_
 
 * [TopDown Multiplayer Sources](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/prototype_v1.0/TopDown_Multiplayer.zip) (360 MB)
 
+### Chapter 4 - Setting up your First Multiplayer Game
+
+* [Project Start](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-project-start/UnrealShadows_LOTL-ProjectStart.zip) (20 MB)
+
 ## Credits
 
 * **Models**
