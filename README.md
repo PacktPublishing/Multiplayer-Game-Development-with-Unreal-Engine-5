@@ -12,7 +12,7 @@ _Published by Packt_
 
 ### Chapter 4 - Setting up your First Multiplayer Game
 
-* [TBD]() (20 MB)
+* [Unreal Shadows - Project Start](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-project-start/UnrealShadows_LOTL-ProjectStart.zip) (37.2 MB)
 
 ## Credits
 
