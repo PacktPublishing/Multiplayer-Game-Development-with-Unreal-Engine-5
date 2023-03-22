@@ -8,7 +8,7 @@ _Published by Packt_
 
 ### Chapter 3 - Testing the Multiplayer System with a Project Template
 
-* [TopDown Multiplayer Sources](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/prototype_v1.0/TopDown_Multiplayer.zip) (360 MB)
+* [TopDown Multiplayer Prototype - Complete Sources](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/prototype_v1.0/TopDown_Multiplayer.zip) (360 MB)
 
 ### Chapter 4 - Setting up your First Multiplayer Game
 
