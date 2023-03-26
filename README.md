@@ -13,7 +13,6 @@ _Published by Packt_
 ### Chapter 4 - Setting up your First Multiplayer Game
 
 * [Unreal Shadows - Starter Content](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/ue-starter-content/UnrealShadows-StarterContent.zip) (19.5 MB)
-* [Unreal Shadows - Chapter 04 Start](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-project-start/UnrealShadows_LOTL-chapter-04-start.zip) (19.6 MB)
 * [Unreal Shadows - Chapter 04 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-04-end/UnrealShadows_LOTL-chapter-04-end.zip) (19.6 MB)
 
 ### Chapter 5 - Managing Actors in a Multiplayer Environment
