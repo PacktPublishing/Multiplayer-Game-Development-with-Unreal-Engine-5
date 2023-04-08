@@ -22,6 +22,8 @@ _Published by Packt_
 
 ### Chapter 6 - Replicating Properties over the Network
 
+* [Unreal Shadows - Chapter 06 End]() (TBD)
+
 ## Credits
 
 * **Models**
