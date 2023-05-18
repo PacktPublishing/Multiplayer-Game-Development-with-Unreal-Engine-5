@@ -33,7 +33,11 @@ _Published by Packt_
 
 ### Chapter 9 - Extending AI Behaviours
 
-* [Unreal Shadows - Chapter 09 End]() (TBD)
+* [Unreal Shadows - Chapter 09 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-09-end/UnrealShadows_LOTL-chapter-09-end.zip) (20 MB)
+
+### Chapter 10 - Enhancing the Player Experience
+
+* [Unreal Shadows - Chapter 10 End]() (TBD)
 
 ## Credits
 
