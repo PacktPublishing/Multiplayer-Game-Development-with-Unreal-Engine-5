@@ -37,7 +37,7 @@ _Published by Packt_
 
 ### Chapter 10 - Enhancing the Player Experience
 
-* [Unreal Shadows - Chapter 10 End]() (TBD)
+* [Unreal Shadows - Chapter 10 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-10-end/UnrealShadows_LOTL-chapter-10-end.zip) (20.1 MB)
 
 ## Credits
 
