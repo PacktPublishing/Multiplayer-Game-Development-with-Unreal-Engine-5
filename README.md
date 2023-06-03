@@ -39,6 +39,10 @@ _Published by Packt_
 
 * [Unreal Shadows - Chapter 10 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-10-end/UnrealShadows_LOTL-chapter-10-end.zip) (20.1 MB)
 
+### Chapter 11 - Debugging a Multiplayer Game
+
+* [Unreal Shadows - Chapter 11 End]() (TBD)
+
 ## Credits
 
 * **Models**
