@@ -41,7 +41,7 @@ _Published by Packt_
 
 ### Chapter 11 - Debugging a Multiplayer Game
 
-* [Unreal Shadows - Chapter 11 End]() (TBD)
+* [Unreal Shadows - Chapter 11 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-11-end/unrealshadows-ltol-chapter-11-end.zip) (20.1 MB)
 
 ## Credits
 
