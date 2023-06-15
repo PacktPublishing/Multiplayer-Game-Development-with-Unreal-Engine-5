@@ -43,6 +43,14 @@ _Published by Packt_
 
 * [Unreal Shadows - Chapter 11 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-11-end/unrealshadows-ltol-chapter-11-end.zip) (20.1 MB)
 
+### Chapter 12 - Managing Multiplayer Sessions
+
+* [Unreal Shadows - Chapter 12 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/chapter-12-end/unrealshadows-ltol-chapter-12-end.zip) (20.1 MB)
+
+### Chapter 13 - Handling Data During a Session
+
+* [Unreal Shadows - Chapter 13 End]() (TBD)
+
 ## Credits
 
 * **Models**
