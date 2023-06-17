@@ -25,7 +25,7 @@ _Published by Packt_
 
 ### Chapter 7 - Using Remote Procedure Calls (RPCs)
 
-* [Unreal Shadows - Chapter 07 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-07-end/UnrealShadows_LOTL-chapter-07-end.zip) (19.9 MB)
+* [Unreal Shadows - Chapter 07 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-07-end/unrealshadows-ltol-chapter-07-end.zip) (19.9 MB)
 
 ### Chapter 8 - Introducing AIs in a Multiplayer Environment
 
