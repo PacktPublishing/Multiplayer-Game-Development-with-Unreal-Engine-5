@@ -17,7 +17,7 @@ _Published by Packt_
 
 ### Chapter 5 - Managing Actors in a Multiplayer Environment
 
-* [Unreal Shadows - Chapter 05 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-05-end/unrealshadows_ltol-chapter-05-end.zip) (19.8 MB)
+* [Unreal Shadows - Chapter 05 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-05-end/unrealshadows-ltol-chapter-05-end.zip) (19.8 MB)
 
 ### Chapter 6 - Replicating Properties over the Network
 
