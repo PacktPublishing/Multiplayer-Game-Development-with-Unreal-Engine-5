@@ -21,7 +21,7 @@ _Published by Packt_
 
 ### Chapter 6 - Replicating Properties over the Network
 
-* [Unreal Shadows - Chapter 06 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-06-end/UnrealShadows_LOTL-chapter-06-end.zip) (19.8 MB)
+* [Unreal Shadows - Chapter 06 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-06-end/unrealshadows-ltol-chapter-06-end.zip) (19.8 MB)
 
 ### Chapter 7 - Using Remote Procedure Calls (RPCs)
 
