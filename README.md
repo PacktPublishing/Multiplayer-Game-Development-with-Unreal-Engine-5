@@ -29,7 +29,7 @@ _Published by Packt_
 
 ### Chapter 8 - Introducing AIs in a Multiplayer Environment
 
-* [Unreal Shadows - Chapter 08 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-08-end/UnrealShadows_LOTL-chapter-08-end.zip) (20 MB)
+* [Unreal Shadows - Chapter 08 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-08-end/unrealshadows-ltol-chapter-08-end.zip) (20 MB)
 
 ### Chapter 9 - Extending AI Behaviours
 
