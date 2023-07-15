@@ -49,7 +49,7 @@ _Published by Packt_
 
 ### Chapter 13 - Handling Data During a Session
 
-* [Unreal Shadows - Chapter 13 End]() (TBD)
+* [Unreal Shadows - Chapter 13 End](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/releases/download/us-chapter-13-end/unrealshadows-ltol-chapter-13-end.zip) (20.1 MB)
 
 ## Credits
 
