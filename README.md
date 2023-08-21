@@ -1,6 +1,6 @@
 # Multiplayer Game Development with Unreal Engine 5
 
-## Create compelling multiplayer games with Unreal Engine's networking features, including Epic Online Services
+## Create compelling multiplayer games with C++, Blueprints, and Unreal Engine’s networking features
 
 _Published by Packt_
 
