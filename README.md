@@ -1,10 +1,55 @@
-# Multiplayer Game Development with Unreal Engine 5
+# Multiplayer Game Development with Unreal Engine 5	
+Multiplayer Game Development with Unreal Engine 5, published by Packt
 
-## Create compelling multiplayer games with C++, Blueprints, and Unreal Engine’s networking features
+<a href="https://www.packtpub.com/product/multiplayer-game-development-with-unreal-engine-5/9781803232874"><img src="https://static.packt-cdn.com/products/9781803232874/cover/smaller" alt="Multiplayer Game Development with Unreal Engine 5" height="256px" align="right"></a>
 
-_Published by Packt_
+This is the code repository for [Multiplayer Game Development with Unreal Engine 5](https://www.packtpub.com/product/multiplayer-game-development-with-unreal-engine-5/9781803232874), published by Packt.
 
-## Project Files
+**Create compelling multiplayer games with C++, Blueprints, and Unreal Engine's networking features**
+
+## What is this book about?
+
+If you are a game programmer, particularly an Unreal Engine developer, with little or no knowledge of video game networking systems and a passion for multiplayer games, this book will help you explore the subject in depth.Developers skilled in other game engines will find this book useful for understanding the principles of the Unreal multiplayer system, however, basic knowledge of Unreal Engine and C++ is strongly recommended.
+
+This book covers the following exciting features:
+
+* Get to grips with the basics of multiplayer game development
+* Understand the main elements of a networked level
+* Explore Unreal multiplayer features such as replication, RPCs, relevancy, and roles
+* Debug and optimize code for improved game performance
+* Deploy the game on LAN or online platforms
+* Use Epic Online Services to elevate the player experience
+  
+If you feel this book is for you, get your [copy](https://www.amazon.in/Multiplayer-Game-Development-Unreal-Engine/dp/1803232870/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) today!
+
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
+
+## Instructions and Navigations
+All of the files is organized into folders. For example, chapter01.
+
+
+**Following is what you need for this book:**
+
+If you’re fascinated by the immersive gaming experiences that enable multiple users to engage in collaborative or competitive gameplay, this Unreal Engine 5 game development book is for you.In this book, you’ll learn the foundational principles behind multiplayer games. Starting with a sample project, you’ll learn how to set up a networked system and make it work. Once the prototype of the project is functional, you’ll start adding game logic, including obstacles and AI opponents, to heighten the challenges and engagement, offering a captivating experience for players. Next, you’ll learn how to debug and optimize the project, before finally deploying the game build and integrating it with cloud services such as the Epic Online Services system.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+
+### Software and Hardware List
+| Software required                    | OS required                         |
+| ------------------------------------ | ----------------------------------- |
+| Unreal Engine 5.1                    | Windows 10 64-bit version 1909 revision .1350 or higher/versions 2004 and 20H2 revision .789 or higher, Ubuntu 22.04, or the latest macOS Ventura |
+|Visual Studio 2019 or 2022 and JetBrain Rider 2023+|                       |
+
+### Related products <Other books you may enjoy>
+* Elevating Game Experiences with Unreal Engine 5  [[Packt]](https://www.packtpub.com/product/elevating-game-experiences-with-unreal-engine-5-second-edition/9781803239866#:~:text=Elevating%20Game%20Experiences%20with%20Unreal%20Engine%205%20will%20walk%20you,%2C%20inheritance%2C%20and%20player%20input.x`) [[Amazon]](https://www.amazon.in/Elevating-Game-Experiences-Unreal-Engine/dp/1803239867)
+
+* Blueprints Visual Scripting for Unreal Engine 5  [[Packt]](https://www.packtpub.com/product/blueprints-visual-scripting-for-unreal-engine-5-third-edition/9781801811583) [[Amazon]](https://www.amazon.in/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X)
+
+## Get to Know the Author
+**Marco Secchi** is a passionate game programming teacher based in Milan, Italy. Previously, he was a freelance programmer, focusing on game and application development; currently, he is a lecturer and lead game advisor at Nuova Accademia di Belle Arti (NABA). Marco continues to hone his programming skills in the research and development department at NABA, while also working on personal projects, involving game development and cultural heritage.
+
+## Additional Information
 
 _**Important Note**: the following project files have been created by using Unreal Engine 5.1. However, with a minor effort, you will be able to run the project with Unreal Engine 5.2 or higher. Please read the [dedicated page](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/blob/main/ue-5-2.md) to properly set up the project._
 
