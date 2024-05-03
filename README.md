@@ -53,7 +53,7 @@ With the following software and hardware list you can run all code files present
 
 _**Important Note**: the following project files have been created by using Unreal Engine 5.1. However, with a minor effort, you will be able to run the project with Unreal Engine 5.2 or higher. Please read the [dedicated page](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/blob/main/ue-5-2.md) to properly set up the project._
 
-_##Errata Corrige## can be found on the [dedicated page](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/blob/main/errata.md)._
+_**Errata Corrige**_ can be found on the [dedicated page](https://github.com/PacktPublishing/Multiplayer-Game-Development-with-Unreal-Engine-5/blob/main/errata.md)._
 
 ### Chapter 3 - Testing the Multiplayer System with a Project Template
 
